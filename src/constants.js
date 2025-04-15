@@ -232,7 +232,7 @@ export const SkillsInfo = [
       image: jobsLogo,
       tags: ["React + Vite", "TailwindCss", "MongoDB", "Javascript","Framer Motion"],
       github: "https://github.com/Gowtham-R-19/React-Job-Portal",
-      webapp: "https://github.com/Gowtham-R-19",
+      webapp: "https://react-job-portal-phi.vercel.app/",
     },
     {
       id: 5,
@@ -241,7 +241,7 @@ export const SkillsInfo = [
         "A minimal, full-stack productivity application to manage daily tasks. Developed with Go and MongoDB, it includes Dockerized deployment and a simple yet effective UI built using HTML, CSS, and JavaScript.",
       image: todoLogo,
       tags: ["Golang", "HTML", "Javascript", "CSS", "MongoDB", "Docker"],
-      github: "https://github.com/Gowtham-R-19",
-      webapp: "https://github.com/Gowtham-R-19",
+      github: "https://github.com/Gowtham-R-19/Go-Todo-App",
+      webapp: "https://github.com/Gowtham-R-19/Go-Todo-App",
     },
   ];  
